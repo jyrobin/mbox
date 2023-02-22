@@ -1,6 +1,9 @@
 Mbox
 ====
 
+(This applies the patch given in Issue 34 to avoid the segmentation fault problem
+for python3 thanking to Yu-Jie Lin).
+
 Mbox is a lightweight *sandboxing* mechanism that any user can use
 *without special privileges* in commodity operating systems. For more
 details, see doc/NOTE.web or visit
